@@ -25,7 +25,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn jupyter
 
 ### Run the Notebook
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/payaswinirauta/primetrade-analysis>
 cd primetrade-analysis
 # Place both CSV files in the root folder:
 #   historical_data.csv
